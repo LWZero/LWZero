@@ -9,10 +9,9 @@ Ci-Dessous les divers projets de jeux vidéo que j'ai pu faire.
 
 ![Image](Cubvious.png)
 
-```markdown
 Jeu de puzzle en 3d avec Unity3D et C#.
+
 Fait dans le cadre d'un projet de 3 mois en 1ère année à l'ESIEE Paris.
-```
 
 [Lien vers le projet](https://drive.google.com/open?id=0B0pxW2mxEZiYd3RxVFlLZFdLLVk)
 
