@@ -13,7 +13,7 @@ Voici mes différents projets de jeu vidéo
 ```markdown
 Jeu de puzzle en 3d avec Unity3D et C#
 ```
-![Image](posterCub.png)
+![Image](posterCub.jpg)
 
 ## Proto jeu de course
 
