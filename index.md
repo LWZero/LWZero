@@ -3,7 +3,7 @@
 
 ## Projets
 
-Voici mes différents projets de jeu vidéo
+Ci-Dessous les divers projets de jeux vidéo que j'ai pu faire.
 
 ### Cubvious
 
@@ -32,7 +32,7 @@ Carte dynamique selon l'avancé du joueur dans le labyrinthe et possibilité de 
 ![Image](zuul.png)
 
 ```markdown
-Jeu textuel.
+Jeu textuel en Java.
 Le joueur rentre les mots clés associés pour entreprendre des actions.
 (Note : La commande Talk ne marche pas complétement)
 ```
@@ -41,6 +41,6 @@ Le joueur rentre les mots clés associés pour entreprendre des actions.
 ### Jeu de Stratégie - Ere des barons
 ![Image](ere.png)
 ```markdown
-Jeu de Stratégie au tour par tour.
+Jeu de Stratégie au tour par tour en C
 Chaque joueur possède plusieurs unités avec plusieurs actions disponibles.
 ```
