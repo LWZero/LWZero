@@ -9,7 +9,7 @@ Ci-Dessous les divers projets de jeux vidéo que j'ai pu faire.
 
 ![Image](Cubvious.png)
 
-Jeu de puzzle en 3d avec Unity3D et C#.
+Jeu de puzzle fait avec Unity3D et C#.
 
 Fait dans le cadre d'un projet de 3 mois en 1ère année à l'ESIEE Paris.
 
@@ -17,7 +17,10 @@ Fait dans le cadre d'un projet de 3 mois en 1ère année à l'ESIEE Paris.
 
 ![Image](posterCub.jpg)
 
-## Proto jeu de course
+### Proto jeu de course
+![image](proto.png)
+Proto de jeu de course fait avec Unity3D et C#.
+Mario kart-like avec carapaces rouges, vertes, pistes de turbo, checkpoints etc...
 
 ### Labyrinthe
 ![Image](laby.png)
