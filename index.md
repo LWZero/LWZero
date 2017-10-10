@@ -37,3 +37,10 @@ Le joueur rentre les mots clés associés pour entreprendre des actions.
 (Note : La commande Talk ne marche pas complétement)
 ```
 [Lien vers le projet](https://drive.google.com/open?id=0B0pxW2mxEZiYMFdKbUdxLU13Tzg)
+
+### Jeu de Stratégie - Ere des barons
+![Image](ere.png)
+```markdown
+Jeu de Stratégie au tour par tour.
+Chaque joueur possède plusieurs unités avec plusieurs actions disponibles.
+```
