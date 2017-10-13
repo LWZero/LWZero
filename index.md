@@ -3,17 +3,15 @@
 
 ## Projets
 
-Hello visiteur ! 
+Bonjour à tous ! 
 
-Ci-Dessous les divers projets de jeux vidéo que j'ai pu faire au cours des années.
+Ci-Dessous ce trouvent les divers projets de jeux vidéo que j'ai réalisé.
 
 
 ### Cubvious
 ![Image](Cubvious.png)
 
-Jeu de puzzle fait avec Unity3D et C#.
-
-Fait dans le cadre d'un projet de 3 mois en 1ère année à l'ESIEE Paris.
+Puzzle game. Création en Unity3D et C#.
 
 [Lien vers le projet](https://drive.google.com/open?id=0B0pxW2mxEZiYd3RxVFlLZFdLLVk)
 
@@ -22,23 +20,23 @@ Fait dans le cadre d'un projet de 3 mois en 1ère année à l'ESIEE Paris.
 ### Proto jeu de course
 ![image](proto.png)
 
-Prototype de jeu de course fait avec Unity3D et C#.
+Prototype de jeu de course. Création en Unity3D et C#.
 
 Mario kart-like avec carapaces rouges, vertes, pistes de turbo, checkpoints etc...
 
 ### Labyrinthe
 ![Image](laby.png)
 
-Jeu de labyrinthe fait en C avec la librairie MLV
+Jeu de labyrinthe. Création en C avec la librairie MLV.
 
-Carte dynamique selon l'avancé du joueur dans le labyrinthe et possibilité de sauvegarde de sa progression.
+Carte dynamique selon l'avancement du joueur dans le labyrinthe et possibilité de sauvegarde de sa progression.
 
 [Lien vers le projet](https://drive.google.com/open?id=0B0pxW2mxEZiYb0JreE5CdEJXN28)
 
 ### Jeu Texte
 ![Image](zuul.png)
 
-Jeu textuel en Java.
+Jeu textuel. Création en Java, Java Swing.
 
 Le joueur rentre les mots clés associés pour entreprendre des actions.
 
@@ -48,6 +46,6 @@ Le joueur rentre les mots clés associés pour entreprendre des actions.
 
 ### Jeu de Stratégie - Ere des barons
 ![Image](ere.png)
-Jeu de Stratégie au tour par tour en C
+Jeu de Stratégie au tour par tour. Création en C.
 
 Chaque joueur possède plusieurs unités avec plusieurs actions disponibles.
